@@ -9,6 +9,11 @@ h1 {
     font-weight: bolder;
     
 }
+.gallery
+{
+    display: flex;
+       
+}
 
 p{
     font-family: "Audiowide", sans-serif;
